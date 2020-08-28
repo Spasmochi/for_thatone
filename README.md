@@ -11,7 +11,7 @@ Challenge 3:
    
     a. Create state to hold the current value of the countdown timer.
        Display this time in the "Time Remaining" header
-    b. Set up an effect that runs every time the `timeRemaining` changes
+    b. Set up an effect that runs every time the state of your stateful time variable changes
        The effect should wait 1 second, then decrement the `timeRemaining` by 1
  
        Hint: use `setTimeout` instead of `setInterval`. This will help you avoid
