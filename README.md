@@ -24,6 +24,9 @@ Challenge 4:
    
 Challenge 5:
    
-    When the timer reaches 0, count the number of words the user typed in
-    and display it in the "Word count" section
+    a. When the timer reaches 0, count the number of words the user typed in
+       and display it in the "Word count" section
+    
+    b. After the game ends, make it so the user can click the Start button again
+       to play a second time
   
