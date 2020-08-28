@@ -16,9 +16,6 @@ Challenge 3:
  
        Hint: use `setTimeout` instead of `setInterval`. This will help you avoid
        a lot of extra work.
-
-       Warning: there will be a bug in this, but we'll tackle that next
- 
    
 Challenge 4:
    
